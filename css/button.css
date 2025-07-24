@@ -14,12 +14,12 @@
 }
 
 .btn-primary {
-    background-color: #333;
+    background-color: #000000;
     color: white;
 }
 
 .btn-primary:hover {
-    background-color: #555;
+    background-color: #189418;
 }
 
 .btn-icon {
@@ -29,10 +29,10 @@
 .social-btn {
     background-color: transparent;
     color: #333;
-    border: 1px solid #e0e0e0;
+    border: 1px dashed #05f82e;
     width: 50px;
     height: 50px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     padding: 0;
 }
 
