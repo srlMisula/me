@@ -1,0 +1,38 @@
+p,h1,h2{
+    color: rgb(65, 255, 0);
+}
+hr{
+    border-top: 1px dotted  rgb(65, 255, 0);
+}
+
+.firstlinecontent{
+    padding-top: 0%;
+    text-align: center;
+}
+
+
+.background{
+    background-repeat: repeat;
+}
+
+.myshit{
+    text-align: center;
+}
+
+.WwP{
+
+}
+
+
+img{
+     height: 40%px;
+  width: 40%;
+}
+
+
+
+
+
+@media(max-width: 768px){
+
+}
